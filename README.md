@@ -1,26 +1,19 @@
 # MSP430 Heater Project
 ![My Image](pspice_circuit.png)
 <hr>
-Equipment List 
-MCU = MSP43062553
-LCD = TC16020
-Membrane Keypad
-I2C Module
-Resistors = 1k, 22
-Capacitor = 100u
-Jumper Cables
-BreadBoard
-9V Battery
-2N2222 Transistor
-LM324
-LM35
-
-
-
-
-
-
-
+Equipment List <br>
+MCU = MSP43062553<br>
+LCD = TC16020<br>
+Membrane Keypad<br>
+I2C Module<br>
+Resistors = 1k, 22<br>
+Capacitor = 100u<br>
+Jumper Cables<br>
+BreadBoard<br>
+9V Battery<br>
+2N2222 Transistor<br>
+LM324<br>
+LM35<br>
 <hr>
 Heating element in this circuit is named as R1. LM35 Should be placed very close to R1 resistance. V4 voltage source is placed to imitate PWM signal that is output of one of the MSP430g2553's pins.
 
