@@ -1,7 +1,7 @@
 # MSP430 Heater Project
 ![My Image](pspice_circuit.png)
 <hr>
-Equipment List <br>
+<h2>Equipment List<h2> <br>
 MCU = MSP43062553<br>
 LCD = TC16020<br>
 Membrane Keypad<br>
