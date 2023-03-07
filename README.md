@@ -1,6 +1,6 @@
 # MSP430 Heater Project
 ![My Image](pspice_circuit.png)
-<hr>
+<hr size=‘’1’’ width=‘’50%’’ align=‘’center’’ color=‘’black’’>
 <h2>Equipment List</h2> <br>
 MCU = MSP43062553<br>
 LCD = TC16020<br>
